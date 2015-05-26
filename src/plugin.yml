@@ -1,0 +1,8 @@
+name: BattleStandards
+main: com.thoughtcomplex.factions.BattleStandards
+version: 0.1
+depend: [Factions]
+commands:
+  challenge:
+    description:
+      Challenges a faction in an adjacent chunk to do battle!
